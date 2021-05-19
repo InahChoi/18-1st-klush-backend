@@ -22,7 +22,7 @@ Common : `AWS(EC2,RDS)`, `RESTful API`
 - 회원가입
 - 로그인
 
-### PRODUCT ENDPOINT
+### ✅ PRODUCT ENDPOINT✅
 - 상품 리스트
 - 상품 디테일
 - 상품 조건별 필터 리스트
@@ -31,7 +31,7 @@ Common : `AWS(EC2,RDS)`, `RESTful API`
 - 장바구니 생성
 - 장바구니 제품 추가
 
-### Database
+### ✅Database✅
 - CSV 파일 제작 후 API를 구성하여 데이터 등록
 
 ### 배포
